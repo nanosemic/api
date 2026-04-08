@@ -588,4 +588,6 @@ app.get('/hello', (req, res) => {
 //   console.log(`Server running at http://localhost:${PORT}`);
 // });
 
+// for vercel-----------------------------------
+
 module.exports = app;
